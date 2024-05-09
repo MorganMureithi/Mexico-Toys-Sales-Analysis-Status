@@ -5,5 +5,5 @@ Total Order,Total Sales,Total Profit by the different Locations of the stores.
 **TOOL USED** Excel,PowerBi
 
 
-An indepth presentation is presented in the PowerBi output.
+An indepth presentation is in the PowerBi output.
 Please Check it out for Incredible insights
